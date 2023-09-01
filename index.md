@@ -1,72 +1,74 @@
-# Old game color paints
+# Vallejo paint combinations
+
+## [Old game color paints](https://acrylicosvallejo.com/wp-content/uploads/2021/09/CC072-Game_Color-Rev20-baja.pdf)
 
 | Highlight | Mid tone | Shadow |
 | --- | --- | --- |
-| Elfic Flesh (72.098) | Cadmium Skin (72.099) | Rosy Flesh (72.100) |
-| Off White (72.101) | Pale Yellow (72.097) | Plague Brown (72.039) |
-| Pale Flesh (72.003) | Elf Skin Tone (72.004) | Dwarf Skin (72.041) |
-| Cadmium Skin (72.099) | Dwarf Skin (72.041) | Tan (72.066) |
-| Bronze Fleshtone (72.036) | Tan (72.066) | Dark Fleshtone (72.044) |
-| Sun Yellow (72.006) | Gold Yellow (72.007) | Scrofulous Brown (72.038) |
-| Gold Yellow (72.007) | Orange Fire (72.008) | Hot Orange (72.009) |
-| Hot Orange (72.009) | Bloody Red (72.010) | Gory Red (72.011) |
-| Bloody Red (72.010) | Gory Red (72.011) | Terracotta (72.065) |
-| Squid Pink (72.013) | Warlord Purple (72.014) | Hexed Lichen (72.015) |
-| Off White (72.101) | Khaki (72.061) | Earth (72.062) |
-| Dead White (72.001) | Bone White (72.034) | Desert Yellow (72.063) |
-| Pale Yellow (72.097) | Plague Brown (72.039) | Leather Brown (72.040) |
-| Glacier Blue (72.095) | Electric Blue (72.023) | Turquoise (72.024) |
-| Wolf Grey (72.047) | Electric Blue (72.023) | Magic Blue (72.021) |
-| Electric Blue (72.023) | Magic Blue (72.021) | Imperial Blue (72.020) |
-| Magic Blue (72.021) | Imperial Blue (72.020) | Night Blue (72.019) |
-| Livery Green (72.033) | Jade Green (72.026) | Scurvy Green (72.027) |
-| Scorpy Green (72.032) | Sick Green (72.029) | Dark Green (72.028) |
-| Dead Flesh (72.035) | Goblin Green (72.030) | Mutation Green (72.105) |
-| Dead Flesh (72.035) | Camouflage Green (72.031) | Yellow Olive (72.064) |
-| Bone White (72.034) | Desert Yellow (72.063) | Cayman Green (72.067) |
-| Bone White (72.034) | Khaki (72.061) | Desert Yellow (72.063) |
-| Plague Brown (72.039) | Beasty Brown (72.043) | Charred Brown (72.045) |
-| Dead White (72.001) | Wolf Grey (72.047) | Sombre Grey (72.048) |
-| Off White (72.101) | Wolf Grey (72.047) | Steel Grey (72.102) |
-| Ghost Grey (72.046) | Stonewall Grey (72.049) | Cold Grey (72.050) |
-| Silver (72.052) | Chainmail Silver (72.053) | Gunmetal (72.054) |
-| Polished Gold (72.055) | Glorious Gold (72.056) | Bright Bronze (72.057) |
-| Khaki (72.061) | Earth (72.062) | Desert Yellow (72.063) |
-| Filthy Brown (72.037) | Parasite Brown (72.042) | Dark Fleshtone (72.044) |
+| ![Elfic Flesh (72.098)](https://placehold.co/50x50/cdc29c/cdc29c) Elfic Flesh (72.098) | ![Cadmium Skin (72.099)](https://placehold.co/50x50/fab78a/fab78a) Cadmium Skin (72.099) | ![Rosy Flesh (72.100)](https://placehold.co/50x50/f89e84/f89e84) Rosy Flesh (72.100) |
+| ![Off White (72.101)](https://placehold.co/50x50/f5f4da/f5f4da) Off White (72.101) | ![Pale Yellow (72.097)](https://placehold.co/50x50/d5c179/d5c179) Pale Yellow (72.097) | ![Plague Brown (72.039)](https://placehold.co/50x50/cc9b34/cc9b34) Plague Brown (72.039) |
+| ![Pale Flesh (72.003)](https://placehold.co/50x50/f6bdb3/f6bdb3) Pale Flesh (72.003) | ![Elf Skin Tone (72.004)](https://placehold.co/50x50/f8a070/f8a070) Elf Skin Tone (72.004) | ![Dwarf Skin (72.041)](https://placehold.co/50x50/cc7c67/cc7c67) Dwarf Skin (72.041) |
+| ![Cadmium Skin (72.099)](https://placehold.co/50x50/fab78a/fab78a) Cadmium Skin (72.099) | ![Dwarf Skin (72.041)](https://placehold.co/50x50/cc7c67/cc7c67) Dwarf Skin (72.041) | ![Tan (72.066)](https://placehold.co/50x50/9f4746/9f4746) Tan (72.066) |
+| ![Bronze Fleshtone (72.036)](https://placehold.co/50x50/db945c/db945c) Bronze Fleshtone (72.036) | ![Tan (72.066)](https://placehold.co/50x50/9f4746/9f4746) Tan (72.066) | ![Dark Fleshtone (72.044)](https://placehold.co/50x50/4f2b26/4f2b26) Dark Fleshtone (72.044) |
+| ![Sun Yellow (72.006)](https://placehold.co/50x50/ffcf07/ffcf07) Sun Yellow (72.006) | ![Gold Yellow (72.007)](https://placehold.co/50x50/fdb318/fdb318) Gold Yellow (72.007) | ![Scrofulous Brown (72.038)](https://placehold.co/50x50/d68030/d68030) Scrofulous Brown (72.038) |
+| ![Gold Yellow (72.007)](https://placehold.co/50x50/fdb318/fdb318) Gold Yellow (72.007) | ![Orange Fire (72.008)](https://placehold.co/50x50/f1652e/f1652e) Orange Fire (72.008) | ![Hot Orange (72.009)](https://placehold.co/50x50/e43027/e43027) Hot Orange (72.009) |
+| ![Hot Orange (72.009)](https://placehold.co/50x50/e43027/e43027) Hot Orange (72.009) | ![Bloody Red (72.010)](https://placehold.co/50x50/bf282e/bf282e) Bloody Red (72.010) | ![Gory Red (72.011)](https://placehold.co/50x50/810504/810504) Gory Red (72.011) |
+| ![Bloody Red (72.010)](https://placehold.co/50x50/bf282e/bf282e) Bloody Red (72.010) | ![Gory Red (72.011)](https://placehold.co/50x50/810504/810504) Gory Red (72.011) | ![Terracotta (72.065)](https://placehold.co/50x50/6b1306/6b1306) Terracota (72.065) |
+| ![Squid Pink (72.013)](https://placehold.co/50x50/da7fb5/da7fb5) Squid Pink (72.013) | ![Warlord Purple (72.014)](https://placehold.co/50x50/7d1a44/7d1a44) Warlord Purple (72.014) | ![Hexed Lichen (72.015)](https://placehold.co/50x50/34274d/34274d) Hexed Lichen (72.015) |
+| ![Off White (72.101)](https://placehold.co/50x50/f5f4da/f5f4da) Off White (72.101) | ![Khaki (72.061)](https://placehold.co/50x50/8c806d/8c806d) Khaki (72.061) | ![Earth (72.062)](https://placehold.co/50x50/6f563d/6f563d) Earth (72.062) |
+| ![Dead White (72.001)](https://placehold.co/50x50/ffffff/ffffff) Dead White (72.001) | ![Bone White (72.034)](https://placehold.co/50x50/e8be86/e8be86) Bone White (72.034) | ![Desert Yellow (72.063)](https://placehold.co/50x50/8e7845/8e7845) Desert Yellow (72.063) |
+| ![Pale Yellow (72.097)](https://placehold.co/50x50/d5c179/d5c179) Pale Yellow (72.097) | ![Plague Brown (72.039)](https://placehold.co/50x50/cc9b34/cc9b34) Plague Brown (72.039) | ![Leather Brown (72.040)](https://placehold.co/50x50/7b5d2a/7b5d2a) Leather Brown (72.040) |
+| ![Glacier Blue (72.095)](https://placehold.co/50x50/acd0ee/acd0ee) Glacier Blue (72.095) | ![Electric Blue (72.023)](https://placehold.co/50x50/008cbf/008cbf) Electric Blue (72.023) | ![Turquoise (72.024)](https://placehold.co/50x50/03676f/03676f) Turquoise (72.024) |
+| ![Wolf Grey (72.047)](https://placehold.co/50x50/90a2bc/90a2bc) Wolf Grey (72.047) | ![Electric Blue (72.023)](https://placehold.co/50x50/008cbf/008cbf) Electric Blue (72.023) | ![Magic Blue (72.021)](https://placehold.co/50x50/024381/024381) Magic Blue (72.021) |
+| ![Electric Blue (72.023)](https://placehold.co/50x50/008cbf/008cbf) Electric Blue (72.023) | ![Magic Blue (72.021)](https://placehold.co/50x50/024381/024381) Magic Blue (72.021) | ![Imperial Blue (72.020)](https://placehold.co/50x50/344863/344863) Imperial Blue (72.020) |
+| ![Magic Blue (72.021)](https://placehold.co/50x50/024381/024381) Magic Blue (72.021) | ![Imperial Blue (72.020)](https://placehold.co/50x50/344863/344863) Imperial Blue (72.020) | ![Night Blue (72.019)](https://placehold.co/50x50/19183f/19183f) Night Blue (72.019) |
+| ![Livery Green (72.033)](https://placehold.co/50x50/9ece65/9ece65) Livery Green (72.033) | ![Jade Green (72.026)](https://placehold.co/50x50/128379/128379) Jade Green (72.026) | ![Scurvy Green (72.027)](https://placehold.co/50x50/09474e/09474e) Scurvy Green (72.027) |
+| ![Scorpy Green (72.032)](https://placehold.co/50x50/48b851/48b851) Scorpy Green (72.032) | ![Sick Green (72.029)](https://placehold.co/50x50/096638/096638) Sick Green (72.029) | ![Dark Green (72.028)](https://placehold.co/50x50/083c2a/083c2a) Dark Green (72.028) |
+| ![Dead Flesh (72.035)](https://placehold.co/50x50/bcb686/bcb686) Dead Flesh (72.035) | ![Goblin Green (72.030)](https://placehold.co/50x50/23743c/23743c) Goblin Green (72.030) | ![Mutation Green (72.105)](https://placehold.co/50x50/296934/296934) Mutation Green (72.105) |
+| ![Dead Flesh (72.035)](https://placehold.co/50x50/bcb686/bcb686) Dead Flesh (72.035) | ![Camouflage Green (72.031)](https://placehold.co/50x50/71753a/71753a) Camouflage Green (72.031) | ![Yellow Olive (72.064)](https://placehold.co/50x50/063b2f/063b2f) Yellow Olive (72.064) |
+| ![Bone White (72.034)](https://placehold.co/50x50/e8be86/e8be86) Bone White (72.034) | ![Desert Yellow (72.063)](https://placehold.co/50x50/8e7845/8e7845) Desert Yellow (72.063) | ![Cayman Green (72.067)](https://placehold.co/50x50/285648/285648) Cayman Green (72.067) |
+| ![Bone White (72.034)](https://placehold.co/50x50/e8be86/e8be86) Bone White (72.034) | ![Khaki (72.061)](https://placehold.co/50x50/8c806d/8c806d) Khaki (72.061) | ![Desert Yellow (72.063)](https://placehold.co/50x50/8e7845/8e7845) Desert Yellow (72.063) |
+| ![Plague Brown (72.039)](https://placehold.co/50x50/cc9b34/cc9b34) Plague Brown (72.039) | ![Beasty Brown (72.043)](https://placehold.co/50x50/55432d/55432d) Beasty Brown (72.043) | ![Charred Brown (72.045)](https://placehold.co/50x50/39343b/39343b) Charred Brown (72.045) |
+| ![Dead White (72.001)](https://placehold.co/50x50/ffffff/ffffff) Dead White (72.001) | ![Wolf Grey (72.047)](https://placehold.co/50x50/90a2bc/90a2bc) Wolf Grey (72.047) | ![Sombre Grey (72.048)](https://placehold.co/50x50/4c5c7d/4c5c7d) Sombre Grey (72.048) |
+| ![Off White (72.101)](https://placehold.co/50x50/f5f4da/f5f4da) Off White (72.101) | ![Wolf Grey (72.047)](https://placehold.co/50x50/90a2bc/90a2bc) Wolf Grey (72.047) | ![Steel Grey (72.102)](https://placehold.co/50x50/64889d/64889d) Steel Grey (72.102) |
+| ![Ghost Grey (72.046)](https://placehold.co/50x50/a7c5db/a7c5db) Ghost Grey (72.046) | ![Stonewall Grey (72.049)](https://placehold.co/50x50/828e95/828e95) Stonewall Grey (72.049) | ![Cold Grey (72.050)](https://placehold.co/50x50/54646d/54646d) Cold Grey (72.050) |
+| ![Silver (72.052)](https://placehold.co/50x50/a7acb0/a7acb0) Silver (72.052) | ![Chainmail Silver (72.053)](https://placehold.co/50x50/7c7c7c/7c7c7c) Chainmail Silver (72.053) | ![Gunmetal (72.054)](https://placehold.co/50x50/636365/636365) Gunmetal (72.054) |
+| ![Polished Gold (72.055)](https://placehold.co/50x50/d2ae22/d2ae22) Polished Gold (72.055) | ![Glorious Gold (72.056)](https://placehold.co/50x50/9b6d32/9b6d32) Glorious Gold (72.056) | ![Bright Bronze (72.057)](https://placehold.co/50x50/a36941/a36941) Bright Bronze (72.057) |
+| ![Khaki (72.061)](https://placehold.co/50x50/8c806d/8c806d) Khaki (72.061) | ![Earth (72.062)](https://placehold.co/50x50/6f563d/6f563d) Earth (72.062) | ![Desert Yellow (72.063)](https://placehold.co/50x50/8e7845/8e7845) Desert Yellow (72.063) |
+| ![Filthy Brown (72.037)](https://placehold.co/50x50/f58d2b/f58d2b) Filthy Brown (72.037) | ![Parasite Brown (72.042)](https://placehold.co/50x50/b1481f/b1481f) Parasite Brown (72.042) | ![Dark Fleshtone (72.044)](https://placehold.co/50x50/4f2b26/4f2b26) Dark Fleshtone (72.044) |
 
-# New game color paints
+## [New game color paints](https://www.vallejoacrylics.com/wp-content/uploads/2023/04/CC266-Game_Color-NewIC-Rev00_.pdf)
 
 | Highlight | Mid tone | Shadow |
 | --- | --- | --- |
-| Dead White (72.001) | Off White (72.101) | Elfic Flesh (72.098) |
-| Off White (72.101) | Elfic Flesh (72.098) | Bone White (72.034) |
-| Pale Flesh (72.003) | Rosy Flesh (72.100) | Athena Skin (72.107) |
-| Pale Flesh (72.003) | Athena Skin (72.107) | Succubus Skin (72.108) |
-| Skin Tone (72.099) | Elf Skin Tone (72.004) | Barbarian Skin (72.071) |
-| Toxic Yellow (72.109) | Moon Yellow (72.005) | Gold Yellow (72.007) |
-| Moon Yellow (72.005) | Sun Yellow (72.006) | Gold Yellow (72.007) |
-| Moon Yellow (72.005) | Sun Yellow (72.006) | Scrofulous Brown (72.038) |
-| Sunset Orange (72.110) | Orange Fire (72.008) | Hot Orange (72.009) |
-| Bloody Red (72.010) | Scarlet Red (72.012) | Nocturnal Red (72.111) |
-| Scarlet Blood (72.106) | Gory Red (72.011) | Evil Red (72.112) |
-| Squid Pink (72.013) | Warlord Purple (72.014) | Deep Magenta (72.113) |
-| Lustful Purple (72.114) | Alien Purple (72.076) | Royal Purple (72.016) |
-| Alien Purple (72.076) | Royal Purple (72.016) | Midnight Purple (72.116) |
-| Alien Purple (72.076) | Hexed Lichen (72.015) | Royal Purple (72.016) |
-| Verdigris (72.096) | Aquamarine (72.119) | Turquoise (72.024) |
-| Aquamarine (72.119) | Turquoise (72.024) | Abyssal Turquoise (72.120) |
-| Elfic Blue (72.117) | Ultramarine Blue (72.022) | Night Blue (72.019) |
-| Sunrise Blue (72.118) | Electric Blue (72.023) | Magic Blue (72.021) |
-| Electirc Blue (72.023) | Magic Blue (72.021) | Imperial Blue (72.020) |
-| Ghost Green (72.121) | Foul Green (72.025) | Jade Green (72.026) |
-| Foul Green (72.025) | Jade Green (72.026) | Scurvy Green (72.027) |
-| Bile Green (72.122) | Scorpy Green (72.032) | Goblin Green (72.030) |
-| Goblin Green (72.030) | Sick Green (72.029) | Dark Green (72.028) |
-| Goblin Green (72.030) | Angel Green (72.123) | Dark Green (72.028) |
-| Dead Flesh (72.035) | Camouflage Green (72.031) | Dirty Grey (72.145) |
-| Parasite Brown (72.042) | Grunge Brown (72.115) | Gorgon Brown (72.124) |
-| Tan (72.066) | Dark Fleshtone (72.044) | Charred Brown (72.045) |
-| Wolf Grey (72.047) | Steel Grey (72.102) | Sombre Grey (72.048) |
-| Glacier Blue (72.095) | Steel Grey (72.102) | Sombre Grey (72.048) |
-| Warm Grey (72.148) | Stonewall Grey (72.049) | Charcoal (72.155) |
-| Nuetral Grey (72.050) | Charcoal (72.155) | Black (72.051) |
+| ![Dead White (72.001)](https://placehold.co/50x50/ffffff/ffffff) Dead White (72.001) | ![Off White (72.101)](https://placehold.co/50x50/f5f4da/f5f4da) Off White (72.101) | ![Elfic Flesh (72.098)](https://placehold.co/50x50/cdc29c/cdc29c) Elfic Flesh (72.098) |
+| ![Off White (72.101)](https://placehold.co/50x50/f5f4da/f5f4da) Off White (72.101) | ![Elfic Flesh (72.098)](https://placehold.co/50x50/cdc29c/cdc29c) Elfic Flesh (72.098) | ![Bone White (72.034)](https://placehold.co/50x50/e8be86/e8be86) Bone White (72.034) |
+| ![Pale Flesh (72.003)](https://placehold.co/50x50/f6bdb3/f6bdb3) Pale Flesh (72.003) | ![Rosy Flesh (72.100)](https://placehold.co/50x50/f89e84/f89e84) Rosy Flesh (72.100) | ![Athena Skin (72.107)](https://placehold.co/50x50/color/color) Athena Skin (72.107) |
+| ![Pale Flesh (72.003)](https://placehold.co/50x50/f6bdb3/f6bdb3) Pale Flesh (72.003) | ![Athena Skin (72.107)](https://placehold.co/50x50/color/color) Athena Skin (72.107) | ![Succubus Skin (72.108)](https://placehold.co/50x50/color/color) Succubus Skin (72.108) |
+| ![Skin Tone (72.099)](https://placehold.co/50x50/color/color) Skin Tone (72.099) | ![Elf Skin Tone (72.004)](https://placehold.co/50x50/f8a070/f8a070) Elf Skin Tone (72.004) | ![Barbarian Skin (72.071)](https://placehold.co/50x50/color/color) Barbarian Skin (72.071) |
+| ![Toxic Yellow (72.109)](https://placehold.co/50x50/color/color) Toxic Yellow (72.109) | ![Moon Yellow (72.005)](https://placehold.co/50x50/color/color) Moon Yellow (72.005) | ![Gold Yellow (72.007)](https://placehold.co/50x50/fdb318/fdb318) Gold Yellow (72.007) |
+| ![Moon Yellow (72.005)](https://placehold.co/50x50/color/color) Moon Yellow (72.005) | ![Sun Yellow (72.006)](https://placehold.co/50x50/ffcf07/ffcf07) Sun Yellow (72.006) | ![Gold Yellow (72.007)](https://placehold.co/50x50/fdb318/fdb318) Gold Yellow (72.007) |
+| ![Moon Yellow (72.005)](https://placehold.co/50x50/color/color) Moon Yellow (72.005) | ![Sun Yellow (72.006)](https://placehold.co/50x50/ffcf07/ffcf07) Sun Yellow (72.006) | ![Scrofulous Brown (72.038)](https://placehold.co/50x50/d68030/d68030) Scrofulous Brown (72.038) |
+| ![Sunset Orange (72.110)](https://placehold.co/50x50/color/color) Sunset Orange (72.110) | ![Orange Fire (72.008)](https://placehold.co/50x50/f1652e/f1652e) Orange Fire (72.008) | ![Hot Orange (72.009)](https://placehold.co/50x50/e43027/e43027) Hot Orange (72.009) |
+| ![Bloody Red (72.010)](https://placehold.co/50x50/bf282e/bf282e) Bloody Red (72.010) | ![Scarlet Red (72.012)](https://placehold.co/50x50/color/color) Scarlet Red (72.012) | ![Nocturnal Red (72.111)](https://placehold.co/50x50/color/color) Nocturnal Red (72.111) |
+| ![Scarlet Blood (72.106)](https://placehold.co/50x50/color/color) Scarlet Blood (72.106) | ![Gory Red (72.011)](https://placehold.co/50x50/810504/810504) Gory Red (72.011) | ![Evil Red (72.112)](https://placehold.co/50x50/color/color) Evil Red (72.112) |
+| ![Squid Pink (72.013)](https://placehold.co/50x50/da7fb5/da7fb5) Squid Pink (72.013) | ![Warlord Purple (72.014)](https://placehold.co/50x50/7d1a44/7d1a44) Warlord Purple (72.014) | ![Deep Magenta (72.113)](https://placehold.co/50x50/color/color) Deep Magenta (72.113) |
+| ![Lustful Purple (72.114)](https://placehold.co/50x50/color/color) Lustful Purple (72.114) | ![Alien Purple (72.076)](https://placehold.co/50x50/color/color) Alien Purple (72.076) | ![Royal Purple (72.016)](https://placehold.co/50x50/color/color) Royal Purple (72.016) |
+| ![Alien Purple (72.076)](https://placehold.co/50x50/color/color) Alien Purple (72.076) | ![Royal Purple (72.016)](https://placehold.co/50x50/color/color) Royal Purple (72.016) | ![Midnight Purple (72.116)](https://placehold.co/50x50/color/color) Midnight Purple (72.116) |
+| ![Alien Purple (72.076)](https://placehold.co/50x50/color/color) Alien Purple (72.076) | ![Hexed Lichen (72.015)](https://placehold.co/50x50/34274d/34274d) Hexed Lichen (72.015) | ![Royal Purple (72.016)](https://placehold.co/50x50/color/color) Royal Purple (72.016) |
+| ![Verdigris (72.096)](https://placehold.co/50x50/color/color) Verdigris (72.096) | ![Aquamarine (72.119)](https://placehold.co/50x50/color/color) Aquamarine (72.119) | ![Turquoise (72.024)](https://placehold.co/50x50/03676f/03676f) Turquoise (72.024) |
+| ![Aquamarine (72.119)](https://placehold.co/50x50/color/color) Aquamarine (72.119) | ![Turquoise (72.024)](https://placehold.co/50x50/03676f/03676f) Turquoise (72.024) | ![Abyssal Turquoise (72.120)](https://placehold.co/50x50/color/color) Abyssal Turquoise (72.120) |
+| ![Elfic Blue (72.117)](https://placehold.co/50x50/color/color) Elfic Blue (72.117) | ![Ultramarine Blue (72.022)](https://placehold.co/50x50/color/color) Ultramarine Blue (72.022) | ![Night Blue (72.019)](https://placehold.co/50x50/19183f/19183f) Night Blue (72.019) |
+| ![Sunrise Blue (72.118)](https://placehold.co/50x50/color/color) Sunrise Blue (72.118) | ![Electric Blue (72.023)](https://placehold.co/50x50/008cbf/008cbf) Electric Blue (72.023) | ![Magic Blue (72.021)](https://placehold.co/50x50/024381/024381) Magic Blue (72.021) |
+| ![Electirc Blue (72.023)](https://placehold.co/50x50/color/color) Electirc Blue (72.023) | ![Magic Blue (72.021)](https://placehold.co/50x50/024381/024381) Magic Blue (72.021) | ![Imperial Blue (72.020)](https://placehold.co/50x50/344863/344863) Imperial Blue (72.020) |
+| ![Ghost Green (72.121)](https://placehold.co/50x50/color/color) Ghost Green (72.121) | ![Foul Green (72.025)](https://placehold.co/50x50/color/color) Foul Green (72.025) | ![Jade Green (72.026)](https://placehold.co/50x50/128379/128379) Jade Green (72.026) |
+| ![Foul Green (72.025)](https://placehold.co/50x50/color/color) Foul Green (72.025) | ![Jade Green (72.026)](https://placehold.co/50x50/128379/128379) Jade Green (72.026) | ![Scurvy Green (72.027)](https://placehold.co/50x50/09474e/09474e) Scurvy Green (72.027) |
+| ![Bile Green (72.122)](https://placehold.co/50x50/color/color) Bile Green (72.122) | ![Scorpy Green (72.032)](https://placehold.co/50x50/48b851/48b851) Scorpy Green (72.032) | ![Goblin Green (72.030)](https://placehold.co/50x50/23743c/23743c) Goblin Green (72.030) |
+| ![Goblin Green (72.030)](https://placehold.co/50x50/23743c/23743c) Goblin Green (72.030) | ![Sick Green (72.029)](https://placehold.co/50x50/096638/096638) Sick Green (72.029) | ![Dark Green (72.028)](https://placehold.co/50x50/083c2a/083c2a) Dark Green (72.028) |
+| ![Goblin Green (72.030)](https://placehold.co/50x50/23743c/23743c) Goblin Green (72.030) | ![Angel Green (72.123)](https://placehold.co/50x50/color/color) Angel Green (72.123) | ![Dark Green (72.028)](https://placehold.co/50x50/083c2a/083c2a) Dark Green (72.028) |
+| ![Dead Flesh (72.035)](https://placehold.co/50x50/bcb686/bcb686) Dead Flesh (72.035) | ![Camouflage Green (72.031)](https://placehold.co/50x50/71753a/71753a) Camouflage Green (72.031) | ![Dirty Grey (72.145)](https://placehold.co/50x50/color/color) Dirty Grey (72.145) |
+| ![Parasite Brown (72.042)](https://placehold.co/50x50/b1481f/b1481f) Parasite Brown (72.042) | ![Grunge Brown (72.115)](https://placehold.co/50x50/color/color) Grunge Brown (72.115) | ![Gorgon Brown (72.124)](https://placehold.co/50x50/color/color) Gorgon Brown (72.124) |
+| ![Tan (72.066)](https://placehold.co/50x50/9f4746/9f4746) Tan (72.066) | ![Dark Fleshtone (72.044)](https://placehold.co/50x50/4f2b26/4f2b26) Dark Fleshtone (72.044) | ![Charred Brown (72.045)](https://placehold.co/50x50/39343b/39343b) Charred Brown (72.045) |
+| ![Wolf Grey (72.047)](https://placehold.co/50x50/90a2bc/90a2bc) Wolf Grey (72.047) | ![Steel Grey (72.102)](https://placehold.co/50x50/64889d/64889d) Steel Grey (72.102) | ![Sombre Grey (72.048)](https://placehold.co/50x50/4c5c7d/4c5c7d) Sombre Grey (72.048) |
+| ![Glacier Blue (72.095)](https://placehold.co/50x50/acd0ee/acd0ee) Glacier Blue (72.095) | ![Steel Grey (72.102)](https://placehold.co/50x50/64889d/64889d) Steel Grey (72.102) | ![Sombre Grey (72.048)](https://placehold.co/50x50/4c5c7d/4c5c7d) Sombre Grey (72.048) |
+| ![Warm Grey (72.148)](https://placehold.co/50x50/color/color) Warm Grey (72.148) | ![Stonewall Grey (72.049)](https://placehold.co/50x50/828e95/828e95) Stonewall Grey (72.049) | ![Charcoal (72.155)](https://placehold.co/50x50/color/color) Charcoal (72.155) |
+| ![Nuetral Grey (72.050)](https://placehold.co/50x50/color/color) Nuetral Grey (72.050) | ![Charcoal (72.155)](https://placehold.co/50x50/color/color) Charcoal (72.155) | ![Black (72.051)](https://placehold.co/50x50/color/color) Black (72.051) |
